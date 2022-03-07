@@ -12,7 +12,7 @@ new Vue({
                 {
                     name: "Đức Phúc",
                     artist: "Ngày đầu tiên",
-                    cover: "https://github.com/phamxuantrung/WomenDay_by_TrungPham/blob/main/img/2.jpg?raw=true",
+                    cover: "https://user-images.githubusercontent.com/48614539/157080786-1f33e6a7-4f2b-478f-b18f-f3672290b5e4.jpg",
                     source: "2.mp3",
                     url: "https://www.youtube.com/watch?v=AfNbehFKJ7o",
                     favorited: true
